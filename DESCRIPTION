@@ -1,6 +1,6 @@
 Package: gap.datasets
-Version: 0.0.5
-Date: 2022-5-6
+Version: 0.0.6
+Date: 2023-8-14
 Title: Datasets for 'gap'
 Authors@R: c(person("Jing Hua", "Zhao", role = c("aut", "cre"),
                     email="jinghuazhao@hotmail.com"),
@@ -18,10 +18,11 @@ LazyLoad: Yes
 License: GPL (>= 2)
 URL: https://jinghuazhao.github.io/R/
 NeedsCompilation: no
-Packaged: 2022-05-06 20:40:59 UTC; jhz22
+Packaged: 2023-08-19 19:19:17 UTC; jhz22
 Depends: R (>= 2.10)
+RoxygenNote: 7.1.2
 Author: Jing Hua Zhao [aut, cre],
   Swetlana Herbrandt [ctb]
 Maintainer: Jing Hua Zhao <jinghuazhao@hotmail.com>
 Repository: CRAN
-Date/Publication: 2022-05-09 08:10:02 UTC
+Date/Publication: 2023-08-25 10:20:05 UTC

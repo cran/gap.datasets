@@ -1,9 +1,9 @@
-e48d4cd164c5b635587ca117ff1f1fba *DESCRIPTION
+acd7504506c2e1c6036241512a3fee3d *DESCRIPTION
 95932419efd5872306b91ee5216795c6 *INDEX
 38ae411d78a4be5e683f85a3f9ce9154 *NAMESPACE
-a39302124ffb15ac4a7d4e67777af44e *README.md
+0f321a5dbc0ba380e0e2e3238bcb10a2 *README.md
 08819dd2dbaee7fa8c01576fc0f857d5 *data/CDKN.rda
-72e846b109134a5fff7d1922a560567d *data/OPG.rda
+fad40059eceb121c86f88d4f2503dba1 *data/OPG.rda
 7bd3aedd75650967cecc91f4286d2cdc *data/PD.rda
 3f3aa5fe17484a97dfef4cafeeb8ce37 *data/aldh2.rda
 9d15248c5fee244053a00abcf98688e6 *data/apoeapoc.rda
@@ -25,8 +25,8 @@ a1cb032c7ef1a44e298054ca43279844 *data/mao.RData
 d3989a6358ec1b228495b648b89e28f4 *data/mhtdata.rda
 9b650da1b41170556420f13a9ed93a41 *data/nep499.RData
 851ad48229829ad72ecc8b3a7959aa0c *data/w4.rda
-bbb0ec1cdb538cf3154d990fc449e1a7 *man/CDKN.Rd
-4bd5ec88c047515f01c5fac16bf1536b *man/OPG.Rd
+d4efe2d72448efc81316e794469bda13 *man/CDKN.Rd
+2c296659ecd99ccab95af08253f94ba3 *man/OPG.Rd
 764e133b3d08b86fcdfeb15cea3cce02 *man/PD.Rd
 03720548d2c36d2095ec94a154f29c3f *man/aldh2.Rd
 45c2396890978948f70f349f5da06739 *man/apoeapoc.Rd
@@ -42,8 +42,8 @@ fa0a6ec7466f866984ffd2b8dd78fcef *man/fa.Rd
 c7741bf171dd722cc8647d657fe5c59f *man/l51.Rd
 023ff843b919e7034ed5ed4b343ec738 *man/lukas.Rd
 98331005b714b77aadb6f3206c83c905 *man/mao.Rd
-8ad061108e6d86244201f16440c54200 *man/meyer.Rd
+b93f6ddec8608196b2ffff33c4c2afbd *man/meyer.Rd
 b1340a6d90a7b364650d38f7f701cb52 *man/mfblong.Rd
 47170756e3ab27b0ccc07e6a0463eab4 *man/mhtdata.Rd
 72802dddb4c17e9d8f3f9a3055b3286f *man/nep499.Rd
-03fb28530586628fec3a36d6864131ec *man/w4.Rd
+c11594b40c04c3abfd3ec671d5c4ecf7 *man/w4.Rd

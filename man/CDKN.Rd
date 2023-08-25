@@ -11,7 +11,7 @@ These data are adapted from the DGI study on CDKN2A/CDKN2B region.
 \usage{data(CDKN)}
 \format{
 There are three data objects in the dataset: \code{CDKNgenes}, the gene list from the Chromosome 9
-according to UCSC browser (\url{https://genome.ucsc.edu/}); \code{CDKNmap}, the genetic map as from 
+according to UCSC browser (\url{https://genome.ucsc.edu/}); \code{CDKNmap}, the genetic map as from
 the HapMap website (\url{https://ftp.ncbi.nlm.nih.gov/hapmap/recombination/2006-10_rel21_phaseI+II/rates/});
 \code{CDKNlocus}, the results from the association analysis of the locus based on DGI data.
 }
